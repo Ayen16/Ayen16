@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jullienn Ross Mangona
-- 👀 I’m interested in Android and Web Development
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in Web Development and Python
+- 🌱 I’m currently learning Python and Pygames
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me julliennrossmangona@gmail.com
 
